@@ -45,6 +45,14 @@ Classify images of fish into multiple categories using deep learning. The projec
   - InceptionV3
   - EfficientNetB0
 - Save best-performing models (`.h5` or `.pkl` or `.keras`) based on accuracy.
+- Model Accuracies:
+  - VGG16: 0.9758
+  - ResNet50: 0.3263
+  - MobileNet: 0.9987
+  - InceptionV3: 0.9912
+  - EfficientNetB0: 0.1632
+
+- Best Performing Model: MobileNet with Accuracy: 0.9987
 
 ### 📈 Model Evaluation
 - Use metrics: Accuracy, Precision, Recall, F1-Score, Confusion Matrix.
